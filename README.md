@@ -1,6 +1,7 @@
 # 🧮 COVID-19 Layoffs: Insights Through SQL
 
-**This SQL project focuses on cleaning and analyzing global layoff data, with a special lens on the COVID-19 era. The aim was to prepare the dataset for analysis, uncover key patterns, and highlight the industries and regions most affected by workforce reductions.**
+This SQL project focuses on cleaning and analyzing global layoff data, with a special lens on the COVID-19 era. The aim was to prepare the dataset for analysis, uncover key patterns, and highlight the industries and regions most affected by workforce reductions.
+
 ---
 
 ## 🔧 Steps Involved
@@ -43,14 +44,4 @@
 - `layoff_data.csv`: Original dataset (if included)  
 - `README.md`: Project overview and documentation  
 
----
 
-## 📌 Future Improvements
-- Create Power BI dashboards for visual insights  
-- Automate data updates via scheduled ETL  
-- Integrate real-time job data for ongoing analysis
-
----
-
-## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email for any collaboration or questions!
