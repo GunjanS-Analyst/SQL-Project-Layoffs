@@ -41,7 +41,7 @@ This SQL project focuses on cleaning and analyzing global layoff data, with a sp
 
 ## 📁 Files Included
 - `layoffs.sql`: Contains all queries for data cleaning and analysis  
-- `layoff_data.csv`: Original dataset (if included)  
+- `layoff_data.csv`: Original dataset  
 - `README.md`: Project overview and documentation  
 
 
