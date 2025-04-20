@@ -44,4 +44,7 @@ This SQL project focuses on cleaning and analyzing global layoff data, with a sp
 - `layoff_data.csv`: Original dataset  
 - `README.md`: Project overview and documentation  
 
+## 📦 Dataset 
+
+Download the dataset from here (https://www.kaggle.com/datasets/swaptr/layoffs-2022/data)
 
