@@ -2,7 +2,8 @@
 
 This SQL project focuses on cleaning and analyzing global layoff data, with a special emphasis on the impact during the **COVID-19 era**. The objective was to prepare the dataset for meaningful analysis, uncover key patterns, and highlight industries and regions most affected by workforce reductions.
 
-The dataset contains detailed records of layoffs by companies worldwide during the years **2020, 2021, 2022, and 2023**.
+The dataset contains detailed records of layoffs by companies worldwide during the years **2020**, **2021**, **2022**, and **2023**.
+
 ---
 
 ## 📦 Dataset
