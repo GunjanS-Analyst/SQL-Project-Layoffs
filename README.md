@@ -64,10 +64,4 @@ You can download the dataset from:
 - `Conditional Updates`: Updated fields based on specific filters (e.g., replacing blanks with NULLs)  
 - `Aggregate Queries`: Used `DISTINCT`, `GROUP BY`, and summary functions to support EDA
 
----
 
-## 📁 Files Included
-
-- `layoffs.sql` – Full SQL script used for cleaning and analysis  
-- `layoffs_dataset.csv` – Raw dataset file  
-- `README.md` – Project documentation
