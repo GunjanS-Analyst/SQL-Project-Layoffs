@@ -1,4 +1,4 @@
-# 💼 Global Layoffs (2020–2023) — SQL Data Cleaning & Analysis
+# Global Layoffs (2020–2023) — SQL Data Cleaning & Analysis
 
 This SQL project focuses on cleaning and analyzing global layoff data, with a special emphasis on the impact during the **COVID-19 era**. The objective was to prepare the dataset for meaningful analysis, uncover key patterns, and highlight industries and regions most affected by workforce reductions.
 
@@ -6,7 +6,7 @@ The dataset contains detailed records of layoffs by companies worldwide during t
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 The dataset contains the following key columns:
 
@@ -25,9 +25,9 @@ You can download the dataset from:
 
 ---
 
-## 🔧 Steps Involved
+## Steps Involved
 
-### 🧹 Data Cleaning
+### Data Cleaning
 - Removed duplicate entries to maintain data integrity using CTEs and `ROW_NUMBER()`
 - Standardized inconsistent data (e.g., company and industry names)
 - Converted string-based dates into proper `DATE` format
@@ -35,7 +35,7 @@ You can download the dataset from:
 - Removed rows lacking layoff information (both `total_laid_off` and `percentage_laid_off` were null)
 - Dropped unnecessary columns after processing
 
-### 📊 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Analyzed total layoffs by company, industry, country, and year
 - Identified companies with 100% workforce layoffs (possible shutdowns)
 - Explored monthly layoff trends and cumulative patterns over time
@@ -43,7 +43,7 @@ You can download the dataset from:
 
 ---
 
-## 💡 Key Observations
+## Key Observations
 - Layoffs peaked during the height of the COVID-19 pandemic
 - The **United States** had the highest concentration of layoffs
 - Industries most affected: **Retail, Consumer Services, and Transportation**
@@ -51,7 +51,7 @@ You can download the dataset from:
 
 ---
 
-## 🛠️ Technologies & SQL Concepts Used
+## 🛠Technologies & SQL Concepts Used
 
 **Tool:**  
 - MySQL Workbench
