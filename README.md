@@ -51,7 +51,7 @@ You can download the dataset from:
 
 ---
 
-## 🛠Technologies & SQL Concepts Used
+## Technologies & SQL Concepts Used
 
 **Tool:**  
 - MySQL Workbench
